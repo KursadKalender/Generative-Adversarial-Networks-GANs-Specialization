@@ -1,4 +1,4 @@
-## Generative Adversarial Networks (GANs) Specialization
+# Generative Adversarial Networks (GANs) Specialization
 
 ![](/Header/header.PNG)
 
