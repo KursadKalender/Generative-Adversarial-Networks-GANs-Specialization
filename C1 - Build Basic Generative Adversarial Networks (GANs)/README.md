@@ -1,4 +1,4 @@
-## C1 - Build Basic Generative Adversarial Networks (GANs)
+## Build Basic Generative Adversarial Networks (GANs)
 
 
 - [Week 1 Intro to GANs](/C1%20-%20Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week%201%20Intro%20to%20GANs/)
